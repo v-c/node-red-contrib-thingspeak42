@@ -44,7 +44,7 @@ leave this configuration item blank.
 - `Topic 7` - Same as above, except for channel Field 7.
 - `Topic 8` - Same as above, except for channel Field 8.
 - `API URL` - The URL of the ThingSpeak server.  If you are using the official
-hosted site, you can use the default:  https://thingspeak.com
+hosted site, you can use the default:  https://api.thingspeak.com
 - `API Key` - This is the Write API Key for your ThingSpeak channel.  You can
 obtain it from the web site.  (Required)
 
